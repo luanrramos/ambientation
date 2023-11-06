@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    color: seagreen;
+}
+.filmes{
+    color: darkred;
+}
+
+.filme_estreia{
+    color: darkblue;
+}
+
+.filmes, .filme_estreia{
+    font-size: 20px;
+
+}
